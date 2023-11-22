@@ -1,6 +1,5 @@
 """
 \\ Database, Relation Name and Relation Schema \\
-
 database = NewDB
 relation = EmpDetails
 Schema:
