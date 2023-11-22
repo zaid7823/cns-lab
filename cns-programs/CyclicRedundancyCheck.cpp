@@ -177,6 +177,7 @@ int main(int argc, char const *argv[]) {
 	c.binaryDivision();
 	return 0;
 }
+
 /*
 Output:
 -- Cyclic Redundancy Check -- 
