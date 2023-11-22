@@ -1,3 +1,18 @@
+"""
+\\ Database, Relation Name and Relation Schema \\
+
+database = NewDB
+relation = EmpDetails
+Schema:
+
+CREATE TABLE EmpDetails(
+	empID int,
+	empName varchar(50),
+	empSalary double,
+	PRIMARY KEY(empID)
+);
+"""
+
 import mysql.connector
 from mysql.connector import Error
 
