@@ -1,4 +1,3 @@
-package CNS_Lab;
 import java.net.*;
 import java.util.*;
 public class DNS {
