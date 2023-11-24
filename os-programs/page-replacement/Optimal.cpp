@@ -23,12 +23,6 @@ int findOptimalIndex(const vector <int> &reference_string, const vector <int> &p
         }
     }
     return (optimalIndex == -1) ? 0 : optimalIndex;
-    // if (optimalIndex == -1) {
-    //     return 0;
-    // }
-    // else {
-    //     return optimalIndex;
-    // }
 }
 // =======================================
 int main(int argc, char const *argv[]) {
